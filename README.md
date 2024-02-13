@@ -1,4 +1,4 @@
-![image](https://github.com/kalamitt/github-api/assets/120734288/ad0d7166-eb56-4f71-8cc0-4b6bb7f7113c)<h1 align="center"> 
+<h1 align="center"> 
   🐈‍⬛ GITHUB API Consumption 🐈‍⬛
 </h1>
 
